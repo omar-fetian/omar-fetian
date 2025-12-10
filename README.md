@@ -9,8 +9,6 @@ I thrive on solving complex problems, writing high-quality code, and staying up-
 
 ## 🚀 About Me
 - 💻 Backend Developer at **Ayamedica**
-- 🌱 Skilled in **Functional Programming** and **Object-Oriented Programming (OOP)**
-- 🧪 Experienced with **Unit Testing** using **Jest**
 - 🔧 Strong background in **problem-solving** and **team collaboration**
 - 📚 Always learning and sharing knowledge through documentation and best practices
 
@@ -45,9 +43,8 @@ I thrive on solving complex problems, writing high-quality code, and staying up-
 
 ## 🎓 Education
 - **Helwan University, Cairo**  
-  Bachelor’s in Electrical Power Systems Engineering  
-  *(with experience in Power Distribution, Digital Control, AutoCAD Electrical, ETAP, Dialux, and Electric Motors)*
-
+  Bachelor’s in Electrical Power Systems Engineering
+  
 ---
 
 ## 💡 Soft Skills
